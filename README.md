@@ -1,3 +1,3 @@
 # repo-de-prueba
 
-repositorio de prueva para tarea de introduccion ala ingenieria en desarrollo de software
+repositorio de prueba para tarea de introduccion a la ingenieria en desarrollo de software
